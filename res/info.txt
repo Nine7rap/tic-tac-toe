@@ -1,0 +1,13 @@
+About game
+This is a game 'Tic-Tac-Toe' where You compete with AI or with
+Your friend who seats near.
+Rules
+There are crosses and zeros in the game like types of moving. Also, there
+is a 3x3 field where user can set the sign in one of the cells.
+You take turns choosing where to put your sign untill one of
+users fill 3 cells vertically, horizontally or diagonally. 
+After achieving this point the current user wins the game.
+If nobody filled 3 cells but there is no way to move, the game
+ends with a draw.
+Author
+The game is made by Konstantin Utyupin and Danylo Kameniev 
